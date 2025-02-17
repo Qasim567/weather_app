@@ -1,0 +1,270 @@
+{
+  "cities": [
+    {
+      "name": "Karachi",
+      "temperature": 28,
+      "weather": "Sunny",
+      "humidity": 60,
+      "wind_speed": 12
+    },
+    {
+      "name": "Islamabad",
+      "temperature": 22,
+      "weather": "Cloudy",
+      "humidity": 65,
+      "wind_speed": 8
+    },
+    {
+      "name": "Rawalpindi",
+      "temperature": 19,
+      "weather": "Cloudy",
+      "humidity": 65,
+      "wind_speed": 8
+    },
+    {
+      "name": "Peshawar",
+      "temperature": 29,
+      "weather": "Sunny",
+      "humidity": 50,
+      "wind_speed": 14
+    },
+    {
+      "name": "Multan",
+      "temperature": 30,
+      "weather": "Sunny",
+      "humidity": 55,
+      "wind_speed": 11
+    },
+    {
+      "name": "Sialkot",
+      "temperature": 25,
+      "weather": "Cloudy",
+      "humidity": 58,
+      "wind_speed": 10
+    },
+    {
+      "name": "Hyderabad",
+      "temperature": 31,
+      "weather": "Sunny",
+      "humidity": 52,
+      "wind_speed": 13
+    },
+    {
+      "name": "Bahawalpur",
+      "temperature": 32,
+      "weather": "Sunny",
+      "humidity": 50,
+      "wind_speed": 8
+    },
+    {
+      "name": "New York",
+      "temperature": 18,
+      "weather": "Cloudy",
+      "humidity": 80,
+      "wind_speed": 15
+    },
+    {
+      "name": "London",
+      "temperature": 12,
+      "weather": "Rainy",
+      "humidity": 85,
+      "wind_speed": 14
+    },
+    {
+      "name": "Paris",
+      "temperature": 14,
+      "weather": "Cloudy",
+      "humidity": 78,
+      "wind_speed": 10
+    },
+    {
+      "name": "Berlin",
+      "temperature": 16,
+      "weather": "Sunny",
+      "humidity": 65,
+      "wind_speed": 9
+    },
+    {
+      "name": "Tokyo",
+      "temperature": 20,
+      "weather": "Clear",
+      "humidity": 75,
+      "wind_speed": 12
+    },
+    {
+      "name": "Dubai",
+      "temperature": 35,
+      "weather": "Sunny",
+      "humidity": 30,
+      "wind_speed": 7
+    },
+    {
+      "name": "Los Angeles",
+      "temperature": 22,
+      "weather": "Sunny",
+      "humidity": 40,
+      "wind_speed": 10
+    },
+    {
+      "name": "Sydney",
+      "temperature": 24,
+      "weather": "Clear",
+      "humidity": 65,
+      "wind_speed": 8
+    },
+    {
+      "name": "Rio de Janeiro",
+      "temperature": 28,
+      "weather": "Sunny",
+      "humidity": 75,
+      "wind_speed": 10
+    },
+    {
+      "name": "Cairo",
+      "temperature": 33,
+      "weather": "Sunny",
+      "humidity": 20,
+      "wind_speed": 7
+    },
+    {
+      "name": "Johannesburg",
+      "temperature": 21,
+      "weather": "Cloudy",
+      "humidity": 55,
+      "wind_speed": 9
+    },
+    {
+      "name": "Bangkok",
+      "temperature": 31,
+      "weather": "Rainy",
+      "humidity": 80,
+      "wind_speed": 15
+    },
+    {
+      "name": "Mexico City",
+      "temperature": 23,
+      "weather": "Cloudy",
+      "humidity": 60,
+      "wind_speed": 13
+    },
+    {
+      "name": "Madrid",
+      "temperature": 18,
+      "weather": "Sunny",
+      "humidity": 50,
+      "wind_speed": 10
+    },
+    {
+      "name": "Rome",
+      "temperature": 19,
+      "weather": "Cloudy",
+      "humidity": 65,
+      "wind_speed": 12
+    },
+    {
+      "name": "Istanbul",
+      "temperature": 17,
+      "weather": "Rainy",
+      "humidity": 80,
+      "wind_speed": 13
+    },
+    {
+      "name": "Singapore",
+      "temperature": 30,
+      "weather": "Rainy",
+      "humidity": 85,
+      "wind_speed": 10
+    },
+    {
+      "name": "Jakarta",
+      "temperature": 29,
+      "weather": "Cloudy",
+      "humidity": 75,
+      "wind_speed": 11
+    },
+    {
+      "name": "Hong Kong",
+      "temperature": 26,
+      "weather": "Cloudy",
+      "humidity": 80,
+      "wind_speed": 14
+    },
+    {
+      "name": "Manila",
+      "temperature": 32,
+      "weather": "Sunny",
+      "humidity": 85,
+      "wind_speed": 9
+    },
+    {
+      "name": "Buenos Aires",
+      "temperature": 22,
+      "weather": "Sunny",
+      "humidity": 70,
+      "wind_speed": 7
+    },
+    {
+      "name": "Lagos",
+      "temperature": 27,
+      "weather": "Cloudy",
+      "humidity": 80,
+      "wind_speed": 12
+    },
+    {
+      "name": "Nairobi",
+      "temperature": 20,
+      "weather": "Rainy",
+      "humidity": 85,
+      "wind_speed": 10
+    },
+    {
+      "name": "Lima",
+      "temperature": 21,
+      "weather": "Cloudy",
+      "humidity": 75,
+      "wind_speed": 9
+    },
+    {
+      "name": "Athens",
+      "temperature": 23,
+      "weather": "Sunny",
+      "humidity": 50,
+      "wind_speed": 7
+    },
+    {
+      "name": "Hanoi",
+      "temperature": 29,
+      "weather": "Rainy",
+      "humidity": 85,
+      "wind_speed": 11
+    },
+    {
+      "name": "Vienna",
+      "temperature": 15,
+      "weather": "Sunny",
+      "humidity": 60,
+      "wind_speed": 9
+    },
+    {
+      "name": "Stockholm",
+      "temperature": 10,
+      "weather": "Cloudy",
+      "humidity": 75,
+      "wind_speed": 12
+    },
+    {
+      "name": "Oslo",
+      "temperature": 8,
+      "weather": "Rainy",
+      "humidity": 80,
+      "wind_speed": 10
+    },
+    {
+      "name": "Copenhagen",
+      "temperature": 12,
+      "weather": "Cloudy",
+      "humidity": 70,
+      "wind_speed": 8
+    }
+  ]
+}
